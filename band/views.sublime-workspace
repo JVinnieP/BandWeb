@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"D",
+				"DjangoWhiteNoise"
+			],
+			[
+				"django",
+				"django_heroku"
+			],
+			[
+				"pos",
+				"post_image_id"
+			],
+			[
+				"po",
+				"post_image_url"
+			],
+			[
+				"B",
+				"BASE_IMAGE_URL"
+			],
+			[
+				"poset",
+				"post_image_url"
+			],
+			[
+				"post",
+				"post_price"
+			],
+			[
+				"fin",
+				"final_postings"
+			],
+			[
+				"post_li",
+				"post_listings"
+			],
+			[
+				"b",
+				"BeautifulSoup"
+			],
+			[
+				"s",
+				"sort"
+			],
+			[
+				"q",
+				"quote_plus"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"todo",
+				"todo_list1"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"List",
+				"ListForm"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"all",
+				"all_items"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"Lis",
+				"ListForm"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"hei",
+				"height_m3"
+			],
+			[
+				"wei",
+				"weight_kg3"
+			],
+			[
+				"na",
+				"name3"
+			],
+			[
+				"we",
+				"weight_kg2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Patricia/Desktop/Mercadolibre/Mercadolibre/urls.py",
+		"/C/Users/Patricia/Desktop/Mercadolibre/ml_app/views.py",
+		"/C/Users/Patricia/Desktop/Mercadolibre/static/css/style.css",
+		"/C/Users/Patricia/Desktop/Mercadolibre/templates/mlib_app/new_search.html",
+		"/C/Users/Patricia/Desktop/Mercadolibre/templates/base.html",
+		"/C/Users/Patricia/Desktop/Mercadolibre/Procfile",
+		"/C/Users/Patricia/Desktop/Mercadolibre/Mercadolibre/settings.py",
+		"/C/Users/Patricia/Desktop/Mercadolibre/ml_app/models.py",
+		"/C/Users/Patricia/Desktop/Mercadolibre/db.sqlite3",
+		"/C/Users/Patricia/Desktop/Mercadolibre/ml_app/urls.py",
+		"/C/Users/Patricia/Documents/Juan/Python/Python Projects/Mercado Libre Ins Web.sublime-project",
+		"/C/Users/Patricia/Desktop/Startupa-template/Start/Start_app/templates/base.html",
+		"/C/Users/Patricia/Desktop/test1/gjhldksg",
+		"/C/Users/Patricia/Desktop/Mercadolibre/static/media/181609986.jpg",
+		"/C/Users/Patricia/Desktop/Mercadolibre/Starter template/index.html",
+		"/C/Users/Patricia/Desktop/craig_list/craig_app/juan_list/juan_list/wsgi.py",
+		"/C/Users/Patricia/Desktop/craig_list/runtime.txt",
+		"/C/Users/Patricia/Desktop/craig_list/Procfile",
+		"/C/Users/Patricia/Desktop/craig_list/craig_app/juan_list/craigjuan_list/urls.py",
+		"/C/Users/Patricia/Desktop/craig_list/craig_app/juan_list/craigjuan_list/static/CSS/style.css",
+		"/C/Users/Patricia/Desktop/craig_list/craig_app/juan_list/db.sqlite3",
+		"/C/Users/Patricia/Desktop/craig_list/craig_app/juan_list/juan_list/settings.py",
+		"/C/django/django_app/todo1/todo_list1/forms.py",
+		"/C/django/django_app/todo1/todo1/settings.py",
+		"/C/django/django_app/todo1/todo_list1/models.py",
+		"/C/django/django_app/todo1/todo1/wsgi.py",
+		"/C/django/django_app/todo1/todo_list1/migrations/__init__.py",
+		"/C/django/django_app/todo1/todo_list1/urls.py",
+		"/C/django/django_app/todo1/todo_list1/views.py",
+		"/C/django/django_app/todo1/todo_list1/templates/home.html",
+		"/C/django/django_app/todo1/todo1/urls.py",
+		"/C/django/django_app/todo/todo_list/urls.py",
+		"/C/django/django_app/todo/todo/urls.py",
+		"/C/django/django_app/todo/todo_list/views.py",
+		"/C/django/django_app/todo/todo_list/templates/home.html",
+		"/C/django/django_app/todo/todo/settings.py",
+		"/C/Users/Patricia/Documents/Juan/Python/Python Projects/Tic Tac Toe App.py",
+		"/C/Users/Patricia/Documents/Juan/Python/Python Projects/Calculator.py",
+		"/C/Users/Patricia/Documents/Juan/Python/Python Projects/Bmi calculator.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
