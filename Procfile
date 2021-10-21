@@ -1,3 +1,3 @@
-web: band_project.wsgi
+web: gunicorn band_project.wsgi
 python manage.py collectstatic --noinput
 manage.py migrate
